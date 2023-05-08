@@ -18,3 +18,9 @@ justify-content: flex-end;
 .navbar-toggler{
 background:#fff !important;
 }
+.bg-dark{
+background-color:#343a40!important
+}
+.bg-primary{
+background-color:#343a40!important
+}
